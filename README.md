@@ -20,8 +20,12 @@
 *   Suporte a números inteiros e decimais
 
 ![tecnologias](https://github.com/user-attachments/assets/3bcb6a61-57f1-4699-9430-646495dc0fbc)
-*  Python 3.
-*  Biblioteca [Tkinter]()
+*  Python 3.12.8
+*  Biblioteca Tkinter
+   ```
+   from tkinter import *
+   from tkinter import ttk
+   ```
 
 ## Como executar
 
