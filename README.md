@@ -4,7 +4,7 @@
 <a>
    <img src="https://github.com/user-attachments/assets/8d446fb4-41d8-4ae3-af17-6994eb8013a7" alt="Mongo DB" width="20" >
 </a>
- Uma calculadora simples de linha de comando escrita em Python. Este projeto tem o objetivo de demonstrar os conceitos básicos de entrada/saída, operações aritméticas e tratamento de erros em Python.
+ Uma calculadora simples de linha de comando escrita em Python. Este projeto tem o objetivo de demonstrar os conceitos básicos de entrada/saída, operações aritméticas em Python.
 <br>
 
 
